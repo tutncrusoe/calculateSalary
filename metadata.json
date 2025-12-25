@@ -1,0 +1,5 @@
+{
+  "name": "TÍNH THUẾ PIT GROSS <-> NET THEO 3 GIAI ĐOẠN",
+  "description": "Ứng dụng tính lương Gross sang Net và ngược lại theo 3 giai đoạn chính sách thuế và lương tối thiểu vùng của Việt Nam (2025 - 2026+).",
+  "requestFramePermissions": []
+}
