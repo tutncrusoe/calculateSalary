@@ -63,3 +63,6 @@ export interface CalculationResult {
   tnldBnnComp: number;
   totalEmployerCost: number;
 }
+
+export type Theme = 'light' | 'dark' | 'contrast';
+export type FontSize = 'small' | 'medium' | 'large';
